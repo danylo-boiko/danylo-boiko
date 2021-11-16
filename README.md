@@ -5,7 +5,7 @@
     <img
       align="center"
       height="155"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danylo-boiko&layout=compact&theme=prussian&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danylo-boiko&layout=compact&langs_count=6&theme=prussian&hide_border=true"
     />
   </a>
   <a href="https://github.com/danylo-boiko?tab=repositories">
