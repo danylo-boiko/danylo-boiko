@@ -1,4 +1,4 @@
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=danylo-boiko&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/danylo-boiko&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=danylo-boiko&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/danylo-boiko?tab=repositories)
 <br/>
 <p align="center">
   <a href="https://github.com/danylo-boiko?tab=repositories">
